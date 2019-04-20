@@ -109,4 +109,4 @@ client.on('ready', () => {// افنت التشغيل
   }, 2000);// وقت الريمبو لا تغيرة لانه الوقت المسموح للتغيير
 })
  
-client.login('NTY5MDgyODI1NDk2NzIzNDU2.XLsqHQ.2-A-WfBIQrjF4iN50sHm570vmLE');
+client.login('process.env.BOT_TOKEN');
